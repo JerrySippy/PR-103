@@ -1,0 +1,33 @@
+body
+{
+   color: white;
+   background: purple;
+}
+
+.heading
+{
+  width:80%;
+  font-size: 22px;
+
+}
+
+.name_of_people  {
+
+color: blue;
+
+}
+
+#camera,#result
+{
+  border: 4px dashed blue;
+  width: 350px;
+  height: 300px;
+
+}
+
+#result_people_name
+#result_people_accuracy
+{
+
+    color: aqua;
+}
